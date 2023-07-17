@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/marinaustinovich/ajs-homeworks-platforms-nodejs#readme",
   "dependencies": {
-    "@marinaustinovich/ajs-homeworks-platforms": "^1.0.1"
+    "@marinaustinovich/ajs-homeworks-platforms": "^1.0.3"
   }
 }
